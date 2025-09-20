@@ -12,28 +12,28 @@ elif a>1:
     print ("Nem, a számra melyre gondoltam kisebb.")
 elif a<1:
     print ("Ez a szám nem 1-5 között van.")
-
+or
 if a==2:
     print ("Helyes szám!")
 elif a>2:
     print ("Nem, a számra melyre gondoltam kisebb.")
 elif a<2:
     print ("Nem, a számra melyre gondoltam nagyobb.")
-    
+or
 if a==3:
     print ("Helyes szám!")
 elif a>3:
     print ("Nem, a számra melyre gondoltam kisebb.")
 elif a<3:
     print ("Nem, a számra melyre gondoltam nagyobb.")
-    
+or    
 if a==4:
     print ("Helyes szám!")
 elif a>4:
     print ("Nem, a számra melyre gondoltam kisebb.")
 elif a<4:
     print ("Nem, a számra melyre gondoltam nagyobb.")
-    
+or    
 if a==5:
     print ("Helyes szám!")
 elif a>5:
